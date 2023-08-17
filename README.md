@@ -2,7 +2,7 @@
 
 --------------------------------------------------------
 NB: The source files were inconsistent with inputs, 2016 - 2018 ("last 3 years starting from 2018" as stipulated in no 2 instruction)
-do not contain values. However, I have run with 1996 - 1998 instead since they had way richer data to work with.
+do not contain values. However, I have run with 1996 - 1998 data per month (no data per day) instead since they presented way richer data to work with.
 
 ------------------------
 ETL and preprocessing
