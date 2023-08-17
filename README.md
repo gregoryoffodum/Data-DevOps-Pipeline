@@ -23,8 +23,7 @@ History of Git Bash commands run:
 - vi download.sh
 - sh download.sh
 
-
-[download.sh](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/download.sh) contains wget command scripting to download file
+- [download.sh](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/download.sh) contains wget command scripting to download file
 
 ------------------------
 ETL and preprocessing
