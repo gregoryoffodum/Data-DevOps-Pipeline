@@ -62,7 +62,7 @@ create python environment and requirements file
 - questions are answered in executable format
 - year (1996 - 1998) should be entered as input variable from the command line as follows:
 
-- python <pythonfile> <year>
+- python _pythonfile_ _year_
 
 
 --------------------
@@ -104,16 +104,17 @@ Create Docker file
 
 Execution instructions
 -------------------------------
+- Replace Dockerfile entrypoint variable to desired question 
 - [question1](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/question1.py) and [question2](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/question2.py) are python executables.
 - year is input: 1996, 1997 or 1998
   
 Build image and run question1
 -------------------------------
 - docker build -t question1 .
-- docker run question1 <year>
+- docker run question1.py _year_
 
 Build image and run question2
 -------------------------------
-- docker build -t question1 .
-- docker run question1 <year>
+- docker build -t question2 .
+- docker run question2.py _year_
 
