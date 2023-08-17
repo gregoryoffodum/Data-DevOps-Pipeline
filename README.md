@@ -24,12 +24,13 @@ History of Git Bash commands run:
 - sh download.sh
 
 - [download.sh](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/download.sh) contains wget command scripting to download file
+- [Weather data](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/en_climate_monthly_ON_6158350_1840-2006_P1M.csv) downloaded
 
 ------------------------
 ETL and preprocessing
 ----------------------
 
-- In ETL, weather data is cleaned, pre-processed into years 1996, 1997, 1998, and merged i.e 4 files
+- In ETL, weather data is cleaned, pre-processed into years [1996](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/weather_1996.csv), [1997](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/weather_1997.csv), [1998](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/weather_1998.csv), and [merged](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/weather_all.csv) i.e 4 files 
 - Other questions are also explored
 
 
