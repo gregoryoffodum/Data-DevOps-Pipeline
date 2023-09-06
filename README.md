@@ -111,7 +111,7 @@ Create Docker file
 Execution instructions
 -------------------------------
 - Replace Dockerfile entrypoint variable to desired question 
-- [question1](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/question1.py) and [question2](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/question2.py) are python executables.
+- [Min and Max Temperature](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/minMaxTemp.py) and [Average Temperature Difference](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/avgTempDifference.py) are python executables.
 - year is input: 1996, 1997 or 1998
   
 Build image and run question1
