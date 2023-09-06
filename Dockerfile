@@ -1,5 +1,5 @@
 FROM python:3.9
-LABEL "Author" "Wave Data Ops"
+LABEL "Author" "Gregory"
 COPY requirements.txt requirements.txt
 COPY question1.py question1.py
 COPY question2.py question2.py
