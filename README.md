@@ -7,7 +7,7 @@ ETL and preprocessing
 In Jupyter notebook, [ETL](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/ETL.ipynb):
 - Station Inventory file is imported
 - Station ID for Toronto is gotten from  Station Inventory file
-- Station ID is used as input in script to download Weather data for Toronto
+- Station ID is used as input in script to download Weather data for Toronto as per [guidelines](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/Guidelines.txt)
 
 -------------------------------------------------------------
 Download source files: Creation and execution of shell script
