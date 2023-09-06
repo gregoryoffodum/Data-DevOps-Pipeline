@@ -117,14 +117,14 @@ Execution instructions
 Build image and run question1
 -------------------------------
 ```
-docker build -t question1 .
-docker run question1.py _year_
+docker build -t minMaxTemp.py .
+docker run minMaxTemp.py <year>
 ```
 
 Build image and run question2
 -------------------------------
 ```
-docker build -t question2 .
-docker run question2.py _year_
+docker build -t avgTempDifference.py .
+docker run avgTempDifference.py <year>
 ```
 
