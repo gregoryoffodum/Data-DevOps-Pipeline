@@ -37,7 +37,7 @@ Creation of S3 bucket using Terraform
 - Launch Red Hat EC2 instance (Terraform server)
 - Install Terraform
 - Create user (terraform)
-- Attach role with S3 Full access instead of access/secret keys (best pratice)
+- Attach role with S3 Full access instead of access/secret keys (best practice)
 - Create [s3bucket.tf](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/s3bucket.tf) file with AWS provider and s3 resources
 ```
 terraform init
