@@ -114,14 +114,14 @@ Execution instructions
 - [Min and Max Temperature](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/minMaxTemp.py) and [Average Temperature Difference](https://github.com/gregoryoffodum/DataOpsExercise/blob/master/avgTempDifference.py) are python executables.
 - year is input: 1996, 1997 or 1998
   
-Build image and run question1
+Build image and run minMaxTemp
 -------------------------------
 ```
 docker build -t minMaxTemp.py .
 docker run minMaxTemp.py <year>
 ```
 
-Build image and run question2
+Build image and run avgTempDiff
 -------------------------------
 ```
 docker build -t avgTempDifference.py .
